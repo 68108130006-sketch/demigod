@@ -1,0 +1,6 @@
+{
+  "name": "Cosmic Strike Shooter",
+  "description": "A high-performance HTML5 space shooter game with customizable controls, vibrant particle systems, synthetic audio effects, and an elite Gold/Blue cyberpunk visual design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
